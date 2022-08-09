@@ -1,0 +1,8 @@
+.fondoNav{
+    background-color: green;
+}
+
+.navFlex{
+    display: flex;
+    justify-content: center;
+}
